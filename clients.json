@@ -34,6 +34,13 @@
 		"title": "Dino",
 		"linux": "https://dino.im"
 	},
+	"fluux": {
+		"title": "Fluux",
+		"logo": "assets/fluux.png",
+		"linux": "https://github.com/processone/fluux-messenger/releases/latest",
+		"macos": "https://github.com/processone/fluux-messenger/releases/latest",
+		"windows": "https://github.com/processone/fluux-messenger/releases/latest"
+	},
 	"kaidan": {
 		"title": "Kaidan",
 		"linux": "https://www.kaidan.im/"
